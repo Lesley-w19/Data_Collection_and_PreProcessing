@@ -1,2 +1,5 @@
 # virtual environments
 .venv
+
+# pdf submission file
+*.pdf
