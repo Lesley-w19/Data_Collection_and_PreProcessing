@@ -1,0 +1,1 @@
+connection: psql 'postgresql://neondb_owner:npg_iIjW6Gn7XgsR@ep-morning-wind-a8v6erf8-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require'
